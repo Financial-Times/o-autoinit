@@ -2,7 +2,15 @@
     "name": "@financial-times/o-autoinit",
     "version": "100.0.0-7",
     "description": "Provides a standard way of firing the 'o.DOMContentLoaded' events if/when the equivalent browser-native events fire, to auto initialise other components that are in use.",
-    "browser": "main.js",
+    "license": "MIT",
+    "type": "module",
+    "exports": {
+        ".": {
+            "browser": "./main.js"
+        }
+    },
+    "browser": "./main.js",
+    "types": "types",
     "devDependencies": {
         "eslint": "^7.9.0",
         "eslint-config-origami-component": "^2.1.0",
