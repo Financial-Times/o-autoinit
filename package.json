@@ -1,6 +1,6 @@
 {
   "name": "@financial-times/o-autoinit",
-  "version": "100.0.0-11",
+  "version": "100.0.0-12",
   "description": "Provides a standard way of firing the 'o.DOMContentLoaded' events if/when the equivalent browser-native events fire, to auto initialise other components that are in use.",
   "keywords": [],
   "homepage": "https://github.com/Financial-Times/o-autoinit#readme",
