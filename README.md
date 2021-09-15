@@ -2,7 +2,7 @@
 
 ***
 
-**The latest version of this component is located within the [Origami Monorepo](https://github.com/Financial-Times/origami-monorepo/).**
+**This component has moved to the [Origami Component System](https://github.com/Financial-Times/origami).**
 
 ***
 
